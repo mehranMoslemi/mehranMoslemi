@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T18:14:59.368Z" agent="5.0 (Windows)" etag="VZzXDqWLR8zTL0slYd69" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-04T18:15:20.095Z" agent="5.0 (Windows)" etag="TUBDQZpvcUFOx9sUzwCM" version="20.2.8" type="github">
   <diagram id="DA9injmPz5gYIz-tdfSx" name="hardweare_overall_diagram">
     <mxGraphModel dx="1520" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -281,6 +281,12 @@
         </mxCell>
         <mxCell id="OmCJdY4qoT6l-CiM3UKr-61" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="950" y="590" width="491" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="OmCJdY4qoT6l-CiM3UKr-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-128.png;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="560" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="OmCJdY4qoT6l-CiM3UKr-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-128.png;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="371" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
