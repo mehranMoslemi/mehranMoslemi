@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T11:17:39.883Z" agent="5.0 (Windows)" etag="bRx51n6CU_Jpv3CkAC2z" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:19:05.348Z" agent="5.0 (Windows)" etag="vFwKf3bclRtqmMEYMySj" version="20.2.8" type="github">
   <diagram id="DA9injmPz5gYIz-tdfSx" name="hardweare_overall_diagram">
-    <mxGraphModel dx="3382" dy="1357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2281" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -489,7 +489,7 @@
             <mxPoint x="-50" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xMOrm1WXgKgzaWiG3uET-131" value="USER" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user;labelBackgroundColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="xMOrm1WXgKgzaWiG3uET-131" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;USER&lt;/span&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f8cecc;shape=mxgraph.azure.user;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-84" y="174" width="68.42" height="72.79" as="geometry" />
         </mxCell>
         <mxCell id="xMOrm1WXgKgzaWiG3uET-135" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=1;targetPerimeterSpacing=1;" edge="1" parent="1" source="xMOrm1WXgKgzaWiG3uET-132">
@@ -497,7 +497,7 @@
             <mxPoint x="-192.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xMOrm1WXgKgzaWiG3uET-132" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MOBILE APP&lt;br&gt;&lt;/font&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="xMOrm1WXgKgzaWiG3uET-132" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;MOBILE APP&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-225" y="154.41" width="65" height="95.59" as="geometry" />
         </mxCell>
         <mxCell id="xMOrm1WXgKgzaWiG3uET-137" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;sourcePerimeterSpacing=1;targetPerimeterSpacing=1;entryPerimeter=0;" edge="1" parent="1" source="xMOrm1WXgKgzaWiG3uET-136" target="xMOrm1WXgKgzaWiG3uET-123">
@@ -511,6 +511,9 @@
         </mxCell>
         <mxCell id="xMOrm1WXgKgzaWiG3uET-138" value="ENTERPRISE USER" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.enterprise;labelBackgroundColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-549" y="145.4" width="78" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xMOrm1WXgKgzaWiG3uET-140" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/HDInsight.svg;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1231" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
